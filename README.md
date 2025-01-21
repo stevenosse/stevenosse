@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [Paper](https://papernotes.app)
 
-- 👯 I’m looking to collaborate on [LineAI](htts://github.com/stevenosse/lineai)
-
-- 📝 I regularly write articles on [https://stevenosse.com](https://stevenosse.com)
+- 📝 I regularly write articles on [https://blog.stevenosse.com](https://blog.stevenosse.com)
 
 - 💬 Ask me about **Flutter & Mobile dev in general**
 
